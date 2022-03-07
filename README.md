@@ -17,3 +17,7 @@ This program calculates the monthly payments needed for a given car loan.
 ### RandomCityPerContinent
 
 This program prints out a continent and the largest city in that continent, based on the value of an integer.
+
+### FizzBuzz
+
+It's a basic coding challenge
