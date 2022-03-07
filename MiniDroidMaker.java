@@ -1,4 +1,4 @@
-public class Droid {
+public class MiniDroidMaker {
   String name;
   int batteryLevel;
 
