@@ -1,4 +1,4 @@
-public class CarLoan {
+public class CarLoanCalculator {
 
   /* This program caclualtes the monthly car payment a user should expect to make after taking out a car loan. It uses the following information:
   Car loan amount
