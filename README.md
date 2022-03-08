@@ -21,3 +21,7 @@ This program prints out a continent and the largest city in that continent, base
 ### FizzBuzz
 
 It's a basic coding challenge
+
+### PrimeDetective
+
+This program finds the prime numbers in an array and adds them to an arraylist.
