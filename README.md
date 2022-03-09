@@ -25,3 +25,7 @@ It's a basic coding challenge
 ### PrimeDetective
 
 This program finds the prime numbers in an array and adds them to an arraylist.
+
+### ProteinFinder
+
+This program determines whether there is a protein in a strand of DNA.
