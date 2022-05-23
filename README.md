@@ -29,3 +29,7 @@ This program finds the prime numbers in an array and adds them to an arraylist.
 ### ProteinFinder
 
 This program determines whether there is a protein in a strand of DNA.
+
+### SelectionSort
+
+This program sorts a list of integers from smallest to largest.
