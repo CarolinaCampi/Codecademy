@@ -1,6 +1,8 @@
 # Codecademy
 
-Some of my CodeCademy projects:
+## Learn Java
+
+Some of my Java CodeCademy projects:
 
 ### EasyMagicNumber
 
