@@ -1,0 +1,40 @@
+body {
+    font-family: Georgia;
+    background-image: URL('https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png');
+    margin: 0;
+  }
+  
+  .header {
+    background-color: RGBA(100, 149, 237, 0.4);
+    text-align: center;
+    
+  }
+  
+  img {
+    padding-top: 20px;
+  }
+  
+  .about-me {
+    font-size: 20px;
+    opacity: 0.6;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  
+  .title {
+    font-weight: bold;
+  }
+  
+  h1 {
+    color: Azure;
+  }
+  
+  main {
+    margin: 20px;
+  }
+  
+  footer {
+    margin: 10px;
+    text-align: right;
+  }
