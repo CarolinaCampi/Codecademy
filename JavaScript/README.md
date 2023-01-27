@@ -11,3 +11,9 @@ Some of my JavaScript CodeCademy projects:
 ### MagicEightBall
 
 ### RaceDay
+
+### RockPaperScissors
+
+### SleepDebtCalculator
+
+### WhaleTalk
