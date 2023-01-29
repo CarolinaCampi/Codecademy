@@ -17,3 +17,7 @@ Some of my JavaScript CodeCademy projects:
 ### SleepDebtCalculator
 
 ### WhaleTalk
+
+### MealMaker
+
+### TeamStats
