@@ -23,3 +23,5 @@ Some of my JavaScript CodeCademy projects:
 ### TeamStats
 
 ### BuildALibrary
+
+### SchoolCatalogue
